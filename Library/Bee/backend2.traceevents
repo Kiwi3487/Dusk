@@ -1,0 +1,390 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1730229343611337, "dur":23660, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730229343635055, "dur":496, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730229343635670, "dur":147, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1730229343636143, "dur":125, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730229343635565, "dur":1970, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730229343637536, "dur":1815554, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730229345453090, "dur":189, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730229345453279, "dur":58, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730229345453338, "dur":99, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730229345453437, "dur":145, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730229345453582, "dur":309, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730229345454050, "dur":2486, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1730229343637322, "dur":570, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1730229343637893, "dur":2513, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1730229343640464, "dur":1718, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730229343640409, "dur":1774, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730229343642191, "dur":5442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730229343647652, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730229343647651, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730229343647727, "dur":5194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730229343653027, "dur":10315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730229343663367, "dur":10485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730229343673877, "dur":26996, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730229343673875, "dur":27000, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730229343700891, "dur":7013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730229343707943, "dur":1745155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730229343636164, "dur":1388, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730229343637553, "dur":731, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730229343638284, "dur":1987, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730229343640274, "dur":1709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1730229343642849, "dur":4317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1730229343647201, "dur":1146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730229343647200, "dur":1149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730229343648364, "dur":8201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730229343656623, "dur":11243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730229343667897, "dur":11151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730229343679088, "dur":4048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1730229343683175, "dur":1769921, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730229343636354, "dur":1206, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730229343637562, "dur":385, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730229343637947, "dur":2399, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730229343640349, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1730229343649458, "dur":1074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1730229343650561, "dur":10054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730229343660659, "dur":10471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730229343671165, "dur":12313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730229343683499, "dur":1769618, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730229343636663, "dur":950, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730229343637616, "dur":763, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730229343638380, "dur":1895, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730229343640303, "dur":11400, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1730229343640277, "dur":11427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1730229343651791, "dur":1256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1730229343653098, "dur":10358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730229343663511, "dur":11192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730229343674754, "dur":1966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1730229343676766, "dur":1281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1730229343678101, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1730229343680571, "dur":1772610, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730229343637517, "dur":449, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730229343637966, "dur":2364, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730229343640376, "dur":11719, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1730229343640333, "dur":11763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1730229343652119, "dur":1597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1730229343653765, "dur":10050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730229343663868, "dur":10994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730229343674900, "dur":2190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":5, "ts":1730229343677165, "dur":2538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1730229343679728, "dur":1773372, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730229343635819, "dur":1722, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730229343637543, "dur":2706, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730229343640554, "dur":81, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730229343640904, "dur":258, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":6, "ts":1730229343641203, "dur":6208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1730229343647413, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1730229343647596, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229343647800, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229343647884, "dur":215, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229343648100, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229343648157, "dur":332, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229343648490, "dur":342, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229343648833, "dur":221, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229343649055, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229343649147, "dur":256, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229343649440, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player346adf55-inputdata.json" }}
+,{ "pid":12345, "tid":6, "ts":1730229343649558, "dur":45389, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.BuildTools.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229343694949, "dur":150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229343695099, "dur":356054, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.CSharpSupport.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344051154, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.DotNet.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344051239, "dur":2181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.NativeProgramSupport.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344053421, "dur":144, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Stevedore.Program.exe" }}
+,{ "pid":12345, "tid":6, "ts":1730229344053615, "dur":42092, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.GNU.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344095709, "dur":64957, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.LLVM.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344160667, "dur":161008, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.VisualStudio.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344321677, "dur":183491, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.Xcode.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344505170, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Tools.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344505290, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TundraBackend.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344505427, "dur":88, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeLocalCacheTool.exe" }}
+,{ "pid":12345, "tid":6, "ts":1730229344505515, "dur":4276, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344509792, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\NiceIO.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344509897, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344510007, "dur":142784, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\SharpYaml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344652794, "dur":66400, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Api.Attributes.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344719196, "dur":162850, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229344882048, "dur":142143, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229345024199, "dur":66273, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229345090474, "dur":94281, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229345184757, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Api.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229345184807, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.BuildLogic.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229345184914, "dur":187484, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Options.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730229343641163, "dur":1731237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1730229345372535, "dur":77988, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1730229345452456, "dur":547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1730229343638138, "dur":2125, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730229343640267, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1730229343642520, "dur":4013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1730229343646567, "dur":183, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730229343646566, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730229343646765, "dur":3253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730229343650054, "dur":10102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730229343660227, "dur":10545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730229343670822, "dur":10596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730229343681444, "dur":1771728, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730229343636005, "dur":1540, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730229343637548, "dur":655, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730229343638203, "dur":2065, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730229343640313, "dur":12380, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1730229343640271, "dur":12423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1730229343652713, "dur":1448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1730229343654212, "dur":9559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730229343663807, "dur":11058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730229343674897, "dur":2054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1730229343677007, "dur":1654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1730229343678703, "dur":4266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1730229343683006, "dur":1770107, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1730229343636287, "dur":1269, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1730229343637558, "dur":449, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1730229343638007, "dur":2349, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1730229343640358, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1730229343643201, "dur":3930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1730229343647165, "dur":158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730229343647163, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730229343647364, "dur":4355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730229343651814, "dur":9883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730229343661721, "dur":11275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730229343673037, "dur":11064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730229343684133, "dur":1768970, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730229343636416, "dur":1148, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730229343637567, "dur":569, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730229343638136, "dur":2118, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730229343640282, "dur":37901, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1730229343640257, "dur":37927, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1730229343678310, "dur":904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1730229343679275, "dur":4160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1730229343683469, "dur":1769773, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1730229343636817, "dur":802, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1730229343637620, "dur":517, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1730229343638137, "dur":2122, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1730229343640262, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":11, "ts":1730229343642530, "dur":4443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":11, "ts":1730229343647004, "dur":451, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730229343647003, "dur":453, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730229343647468, "dur":7121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730229343654647, "dur":10175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730229343664871, "dur":10842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730229343675740, "dur":2133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1730229343677931, "dur":2491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/level3" }}
+,{ "pid":12345, "tid":11, "ts":1730229343680440, "dur":1772654, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730229343636921, "dur":767, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730229343637689, "dur":2703, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730229343640392, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1730229343642221, "dur":5097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1730229343647345, "dur":233, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730229343647345, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730229343647589, "dur":6948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730229343654586, "dur":9846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730229343664462, "dur":10422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730229343674909, "dur":1984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1730229343676958, "dur":1242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1730229343678233, "dur":2688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/level1" }}
+,{ "pid":12345, "tid":12, "ts":1730229343680948, "dur":1772314, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1730229343636944, "dur":754, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1730229343637698, "dur":2676, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1730229343640380, "dur":12305, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1730229343640375, "dur":12311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1730229343652794, "dur":3066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1730229343655932, "dur":11432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1730229343667401, "dur":11340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1730229343678783, "dur":4290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/level0" }}
+,{ "pid":12345, "tid":13, "ts":1730229343683102, "dur":1770074, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1730229343636965, "dur":736, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1730229343637701, "dur":2648, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1730229343640354, "dur":10712, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1730229343640349, "dur":10718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1730229343651090, "dur":980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1730229343652153, "dur":9938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1730229343662121, "dur":10906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1730229343673068, "dur":11028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1730229343684123, "dur":1768983, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1730229343637164, "dur":612, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1730229343637776, "dur":2648, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1730229343640473, "dur":317, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1730229343640427, "dur":363, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1730229343642465, "dur":5092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1730229343647583, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":15, "ts":1730229343647583, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":15, "ts":1730229343647665, "dur":7444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":15, "ts":1730229343655160, "dur":11858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1730229343667069, "dur":10911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1730229343678037, "dur":3664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/level2.resS" }}
+,{ "pid":12345, "tid":15, "ts":1730229343681727, "dur":1771360, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1730229343637256, "dur":525, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1730229343637781, "dur":2639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1730229343640465, "dur":412, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1730229343640423, "dur":454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1730229343641874, "dur":5314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1730229343647221, "dur":199, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1730229343647220, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1730229343647431, "dur":5295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1730229343652764, "dur":9687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1730229343662497, "dur":10705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1730229343673237, "dur":10941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1730229343684204, "dur":1768901, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1730229343637276, "dur":565, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1730229343637842, "dur":2554, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1730229343640461, "dur":2671, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
+,{ "pid":12345, "tid":17, "ts":1730229343640398, "dur":2735, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":17, "ts":1730229343643145, "dur":6618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":17, "ts":1730229343649835, "dur":8979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":17, "ts":1730229343658851, "dur":11294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1730229343670200, "dur":10954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1730229343681209, "dur":1772062, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1730229343637301, "dur":549, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1730229343637850, "dur":2566, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1730229343640470, "dur":298, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":18, "ts":1730229343640418, "dur":351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":18, "ts":1730229343641854, "dur":5444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":18, "ts":1730229343647331, "dur":225, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":18, "ts":1730229343647330, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":18, "ts":1730229343647575, "dur":7340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":18, "ts":1730229343654979, "dur":10581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1730229343665615, "dur":11587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1730229343677267, "dur":1757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/resources.assets" }}
+,{ "pid":12345, "tid":18, "ts":1730229343679085, "dur":4864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":18, "ts":1730229343683970, "dur":1769144, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1730229343637885, "dur":2526, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1730229343640469, "dur":189, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":19, "ts":1730229343640413, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":19, "ts":1730229343642471, "dur":5124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":19, "ts":1730229343647618, "dur":233, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":19, "ts":1730229343647617, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":19, "ts":1730229343647862, "dur":7208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":19, "ts":1730229343655106, "dur":10520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1730229343665663, "dur":11410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1730229343677210, "dur":983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":19, "ts":1730229343678216, "dur":2728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/level1.resS" }}
+,{ "pid":12345, "tid":19, "ts":1730229343680968, "dur":1772285, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1730229343637315, "dur":539, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1730229343637854, "dur":2504, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1730229343640368, "dur":3773, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":20, "ts":1730229343640359, "dur":3783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":20, "ts":1730229343645067, "dur":2293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":20, "ts":1730229343647391, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\netstandard.dll" }}
+,{ "pid":12345, "tid":20, "ts":1730229343647390, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":20, "ts":1730229343647493, "dur":5370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":20, "ts":1730229343652895, "dur":9595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1730229343662516, "dur":11156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1730229343673724, "dur":10690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1730229343684438, "dur":1768721, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1730229343637408, "dur":490, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1730229343637898, "dur":2491, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1730229343640443, "dur":5320, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":21, "ts":1730229343640392, "dur":5372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow.exe" }}
+,{ "pid":12345, "tid":21, "ts":1730229343645774, "dur":2338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow.exe" }}
+,{ "pid":12345, "tid":21, "ts":1730229343648138, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":21, "ts":1730229343648137, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":21, "ts":1730229343648216, "dur":7837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":21, "ts":1730229343656108, "dur":11536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1730229343667677, "dur":11628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1730229343679336, "dur":1773749, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1730229343637424, "dur":477, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1730229343637902, "dur":2376, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1730229343640280, "dur":1688, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":22, "ts":1730229343642867, "dur":3950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":22, "ts":1730229343646857, "dur":121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":22, "ts":1730229343646856, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":22, "ts":1730229343646992, "dur":3628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":22, "ts":1730229343650684, "dur":10175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":22, "ts":1730229343660896, "dur":10487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1730229343671411, "dur":11673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1730229343683104, "dur":1770064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1730229343637484, "dur":421, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1730229343637905, "dur":2348, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1730229343640263, "dur":5566, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":23, "ts":1730229343640254, "dur":5585, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":23, "ts":1730229343645864, "dur":2607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":23, "ts":1730229343648489, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":23, "ts":1730229343648488, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":23, "ts":1730229343648586, "dur":8026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":23, "ts":1730229343656650, "dur":12170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1730229343668870, "dur":11157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1730229343680059, "dur":1773031, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1730229343637501, "dur":455, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1730229343637963, "dur":2377, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1730229343640343, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":24, "ts":1730229343642670, "dur":4301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":24, "ts":1730229343646999, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":24, "ts":1730229343646998, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":24, "ts":1730229343647158, "dur":4389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":24, "ts":1730229343651587, "dur":10036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1730229343661659, "dur":10782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1730229343672493, "dur":11378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1730229343683889, "dur":1769220, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1730229343637684, "dur":578, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1730229343638262, "dur":1988, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1730229343649997, "dur":512, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":25, "ts":1730229343650553, "dur":782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/app.info" }}
+,{ "pid":12345, "tid":25, "ts":1730229343651343, "dur":9928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":25, "ts":1730229343661310, "dur":10660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1730229343672022, "dur":11434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1730229343683481, "dur":1769649, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1730229343637767, "dur":2556, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1730229343640327, "dur":11461, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":26, "ts":1730229343640323, "dur":11466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":26, "ts":1730229343651830, "dur":1396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":26, "ts":1730229343653262, "dur":9729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1730229343663019, "dur":10401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1730229343673443, "dur":10739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1730229343684205, "dur":1768911, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1730229343637855, "dur":2546, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1730229343640474, "dur":1174, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
+,{ "pid":12345, "tid":27, "ts":1730229343640404, "dur":1244, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":27, "ts":1730229343641904, "dur":5462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":27, "ts":1730229343647404, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Richi\\Unity Projects\\Shadow\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":27, "ts":1730229343647402, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":27, "ts":1730229343647534, "dur":6463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":27, "ts":1730229343654031, "dur":9114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1730229343663188, "dur":10514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1730229343673736, "dur":10628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1730229343684402, "dur":1768690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1730229343637878, "dur":2466, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1730229343640361, "dur":9809, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":28, "ts":1730229343640344, "dur":9827, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":28, "ts":1730229343650203, "dur":839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":28, "ts":1730229343651099, "dur":10407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":28, "ts":1730229343661538, "dur":10801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1730229343672406, "dur":11115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1730229343683566, "dur":1769545, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1730229343638087, "dur":2239, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1730229343640328, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":29, "ts":1730229343643559, "dur":3360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":29, "ts":1730229343646968, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":29, "ts":1730229343646967, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":29, "ts":1730229343647052, "dur":3609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":29, "ts":1730229343650736, "dur":10353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":29, "ts":1730229343661122, "dur":10496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1730229343671651, "dur":11705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1730229343683398, "dur":1769710, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1730229343637969, "dur":2366, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1730229343640338, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":30, "ts":1730229343642932, "dur":4072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":30, "ts":1730229343647042, "dur":1338, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.dll" }}
+,{ "pid":12345, "tid":30, "ts":1730229343647041, "dur":1340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":30, "ts":1730229343648389, "dur":8331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":30, "ts":1730229343656791, "dur":11651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1730229343668476, "dur":11183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1730229343679687, "dur":1773414, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1730229343637990, "dur":2331, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1730229343640323, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":31, "ts":1730229343643427, "dur":2621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":31, "ts":1730229343646101, "dur":729, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":31, "ts":1730229343646087, "dur":744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":31, "ts":1730229343646843, "dur":3662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":31, "ts":1730229343650540, "dur":9942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":31, "ts":1730229343660519, "dur":10382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1730229343670935, "dur":10567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1730229343681530, "dur":1771648, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1730229343638007, "dur":2344, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1730229343640354, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":32, "ts":1730229343642822, "dur":3282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":32, "ts":1730229343646178, "dur":208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":32, "ts":1730229343646177, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":32, "ts":1730229343646400, "dur":3213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":32, "ts":1730229343649644, "dur":9141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":32, "ts":1730229343658811, "dur":11208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1730229343670047, "dur":10536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Richi/OneDrive/Desktop/Dusk/Shadow_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1730229343680604, "dur":1772495, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730229345458426, "dur":805, "ph":"X", "name": "ProfilerWriteOutput" }
+,
