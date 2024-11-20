@@ -51,6 +51,7 @@
      <Compile Include="Assets\Script\CameraLutShader.cs" />
      <Compile Include="Assets\Script\TextManager.cs" />
      <Compile Include="Assets\Shaders\FadeInOut.cs" />
+     <Compile Include="Assets\Script\LensFlareController.cs" />
      <Compile Include="Assets\Script\Exit.cs" />
      <Compile Include="Assets\Script\CameratoPlayer.cs" />
      <Compile Include="Assets\Unity editor\SceneLoader.cs" />
@@ -79,6 +80,7 @@
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <Folder Include="Assets\Scenes\LevelScene_Profiles" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
      <Folder Include="Assets\TextMesh Pro\Shaders" />
@@ -89,6 +91,7 @@
      <Folder Include="Assets\Materials" />
      <Folder Include="Assets\Scenes\SampleScene" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+     <Folder Include="Assets\Flares" />
      <None Include="Assets\Shaders\LumShader.shader" />
      <None Include="Assets\Shaders\GlowPulseShader.shader" />
      <Folder Include="Assets\Scenes\SampleScene_Profiles" />

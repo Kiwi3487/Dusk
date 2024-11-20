@@ -364,6 +364,7 @@
 "Assets/Script/CameratoPlayer.cs"
 "Assets/Script/Collectable.cs"
 "Assets/Script/Exit.cs"
+"Assets/Script/LensFlareController.cs"
 "Assets/Script/PlayerCam.cs"
 "Assets/Script/PlayerMovement.cs"
 "Assets/Script/RenderShaders.cs"
