@@ -26,7 +26,7 @@ public class Collectables : MonoBehaviour
             other.gameObject.SetActive(false);
             
             // Adjust darkness and FOV
-            darknessAndVision.DecreaseDarknessIntensity(0.05f); // Decrease darkness
+            darknessAndVision.DecreaseDarknessIntensity(0.1f); // Decrease darkness
             darknessAndVision.IncreaseFieldOfView(0.5f); // Increase FOV
 
             // Update collected count and check if all items are collected
