@@ -369,6 +369,7 @@
 "Assets/Script/PlayerMovement.cs"
 "Assets/Script/RenderShaders.cs"
 "Assets/Script/TextManager.cs"
+"Assets/Script/TextureController.cs"
 "Assets/Shaders/FadeInOut.cs"
 "Assets/Unity editor/SceneLoader.cs"
 -langversion:9.0

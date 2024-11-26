@@ -51,6 +51,7 @@
      <Compile Include="Assets\Script\CameraLutShader.cs" />
      <Compile Include="Assets\Script\TextManager.cs" />
      <Compile Include="Assets\Shaders\FadeInOut.cs" />
+     <Compile Include="Assets\Script\TextureController.cs" />
      <Compile Include="Assets\Script\LensFlareController.cs" />
      <Compile Include="Assets\Script\Exit.cs" />
      <Compile Include="Assets\Script\CameratoPlayer.cs" />

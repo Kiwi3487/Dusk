@@ -7653,7 +7653,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6cae19e8c3c82214c8dff0e4fde01a36, type: 2}
+  - {fileID: 2100000, guid: f978e90d3a995724c8a81eb4478b68ed, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -24378,7 +24378,7 @@ Transform:
   m_GameObject: {fileID: 1367036042}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -33.8, y: 1.637, z: 40.2}
+  m_LocalPosition: {x: -33.8, y: 1.637, z: -8.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -24610,7 +24610,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1405989324
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25661,7 +25661,7 @@ GameObject:
   - component: {fileID: 1606798509}
   - component: {fileID: 1606798508}
   m_Layer: 1
-  m_Name: Cube (1)
+  m_Name: Floor
   m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25900,6 +25900,7 @@ GameObject:
   - component: {fileID: 1641209948}
   - component: {fileID: 1641209947}
   - component: {fileID: 1641209946}
+  - component: {fileID: 1641209949}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -25966,7 +25967,7 @@ Transform:
   m_GameObject: {fileID: 1641209945}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -48.1, y: -1.3459861, z: -5.7}
+  m_LocalPosition: {x: -48.1, y: -1.3459861, z: -3.85}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -25976,6 +25977,39 @@ Transform:
   - {fileID: 1674866135}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1641209949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1641209945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b92c80e16d459f49ae91a420fc5e47d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectsMaterials:
+  - objects: {fileID: 258184689}
+    alternateMaterial: {fileID: 2100000, guid: f978e90d3a995724c8a81eb4478b68ed, type: 2}
+  - objects: {fileID: 1255208008}
+    alternateMaterial: {fileID: 2100000, guid: f978e90d3a995724c8a81eb4478b68ed, type: 2}
+  - objects: {fileID: 195232079}
+    alternateMaterial: {fileID: 2100000, guid: f978e90d3a995724c8a81eb4478b68ed, type: 2}
+  - objects: {fileID: 1714522606}
+    alternateMaterial: {fileID: 2100000, guid: f978e90d3a995724c8a81eb4478b68ed, type: 2}
+  - objects: {fileID: 949632638}
+    alternateMaterial: {fileID: 2100000, guid: f978e90d3a995724c8a81eb4478b68ed, type: 2}
+  - objects: {fileID: 1606798507}
+    alternateMaterial: {fileID: 2100000, guid: f978e90d3a995724c8a81eb4478b68ed, type: 2}
+  - objects: {fileID: 1113346785}
+    alternateMaterial: {fileID: 2100000, guid: f978e90d3a995724c8a81eb4478b68ed, type: 2}
+  - objects: {fileID: 399705444}
+    alternateMaterial: {fileID: 2100000, guid: f978e90d3a995724c8a81eb4478b68ed, type: 2}
+  - objects: {fileID: 1619826955}
+    alternateMaterial: {fileID: 2100000, guid: f978e90d3a995724c8a81eb4478b68ed, type: 2}
+  - objects: {fileID: 142059993}
+    alternateMaterial: {fileID: 2100000, guid: f978e90d3a995724c8a81eb4478b68ed, type: 2}
 --- !u!1 &1649107906
 GameObject:
   m_ObjectHideFlags: 0
