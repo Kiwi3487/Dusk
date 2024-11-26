@@ -58,4 +58,25 @@ https://docs.unity3d.com/ScriptReference/Color.Lerp.html
 **Video with demonstrations**
 https://youtu.be/dQp4ZJudsgw
 
+**-------------------------------------------------------------------------**
 
+**Course Project**
+
+2 effects
+unity particles system (used on glowing orb)
+lens flare (used on glowing orb)
+2 scripts
+2 textures/materials
+
+
+**Texture Controller**
+- using the render component to change texture from new texture and to new texture by storing all objects in a array and chnaging them manually.
+  
+**Lens Flare Controller**
+- very similar to render shader script and player cam script where it will disable and enable a directional light on the glowing orbs to turn on and off lens flare, and the directional light will face the player so it will alway appear when the player is close enought and is facing towards it.
+
+**Materials**
+- wanted a errie abandoned design so I found a brick and terracotta tile texture online with normal mapping and height mapping
+
+https://3dtextures.me/2024/08/03/stylized-terracotta-tiles-001/ 
+https://3dtextures.me/2024/08/21/stylized-bricks-005/
