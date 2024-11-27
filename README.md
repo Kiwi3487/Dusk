@@ -81,13 +81,11 @@ lens flare (used on glowing orb)
 https://3dtextures.me/2024/08/03/stylized-terracotta-tiles-001/ 
 https://3dtextures.me/2024/08/21/stylized-bricks-005/
 
-**Game in a zip**
-https://drive.google.com/drive/folders/1zWCf7hnSoeroacyCrlq3IrulWANljgTc?usp=sharing
+**Game in a zip and INDEPTH VIDEO PRESENTATION**
+[https://drive.google.com/drive/folders/1zWCf7hnSoeroacyCrlq3IrulWANljgTc?usp=sharing](https://drive.google.com/drive/folders/1zWCf7hnSoeroacyCrlq3IrulWANljgTc?usp=sharing)
 
 **Gameplay**
 https://youtu.be/8hvpCMkcMbs
 
-**Presentaion**
+**Slide Presentaion**
 [https://docs.google.com/presentation/d/149VqRm5vANkCh1DpNAhyLpkK75uSKomKm2Xlkrj26FI/edit?usp=sharing](https://docs.google.com/presentation/d/149VqRm5vANkCh1DpNAhyLpkK75uSKomKm2Xlkrj26FI/edit?usp=sharing)
-
-**Video Presentaion**
